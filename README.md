@@ -9,11 +9,11 @@ The project was also made by:
 
 <h1> Information and Documentation</h1>
 
-* More information and documentation is included in the report: [link do sprawozdan]()
-* Diagram project: [link do diagramu]()
+* More information is included in the reports and documentation: [View documentation and reports](https://github.com/Leovambarii/DziennikUJ/blob/master/Projects-Reports-Analysis/Project-Design-and-Documentation.pdf)
+* Diagram project: [View diagram](https://github.com/Leovambarii/DziennikUJ/blob/master/Projects-Reports-Analysis/Diagram.svg)
 
 <h1> Project Development Notes </h1>
-The DziennikUJ project was developed over the course of several weeks, following a structured development process. The team also had to create reports on subsequent parts of the design process [link do sprawozdan](). The following is a summary of the development process:
+The DziennikUJ project was developed over the course of several weeks, following a structured development process. The team also had to create reports on subsequent parts of the design process. The following is a summary of the development process:
 
 <h2>1. Design Phase </h2>
 During the design phase, the project team defined the project goals, requirements, and features. The team also created diagram and user stories to guide the development process. The design was reviewed and approved by the course instructor.
@@ -27,6 +27,6 @@ The team also incorporated feedback from testers (students from the same class g
 The team conducted manual testing to identify and address any bugs or issues.
 
 <h2>4. Deployment Phase </h2>
-The team provided documentation and instructions on how to install and use the application. [link do sprawozdania 5]()
+The team provided documentation and instructions on how to install and use the application. 
 
 Overall, the project development process was successful, and the team was able to deliver a good-quality product that met the goals and requirements.
