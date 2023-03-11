@@ -1,6 +1,6 @@
 <h1> DziennikUJ - virtual school diary </h1>
 
-This project is a virtual school diary that contains whole necessary functionality associated to virtual diary needs. The diary was created using EJS/Node.js, MySQL, HTML, CSS, JavaScript, Sequelize, Express and Passport, as a final project of the Graphical Interfaces Course.
+This project is a virtual school diary that contains whole necessary functionality associated to virtual diary needs. The diary was created using mainly EJS/Node.js and MySQL, as a final project of the Graphical Interfaces Course.
 
 The project was also made by:
 * [Jarosław Skwarek](https://github.com/ffffffffffffffff0)
