@@ -1,4 +1,4 @@
-<h1> DziennikUJ - virtual school diary </h1>
+<h1> DziennikUJ - virtual school gradebook and more </h1>
 
 This project is a virtual school diary that contains whole necessary functionality associated to virtual diary needs. The diary was created using mainly EJS/Node.js and MySQL, as a final project of the Graphical Interfaces Course.
 
