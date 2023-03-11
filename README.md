@@ -19,7 +19,7 @@ The DziennikUJ project was developed over the course of several weeks, following
 During the design phase, the project team defined the project goals, requirements, and features. The team also created diagram and user stories to guide the development process. The design was reviewed and approved by the course instructor.
 
 <h2>2. Development Phase </h2>
-During the development phase, the team used agile development methodologies to iteratively develop and test the application. The application was built using EJS/Node.js, MySQL, HTML, CSS, JavaScript, Sequelize, Express, and Passport. The team used GitHub to manage code versions and collaborate.
+During the development phase, the team used agile development methodologies to iteratively develop and test the application. The team used GitHub to manage code versions and collaborate.
 
 The team also incorporated feedback from testers (students from the same class group and 3 people from a given target group in the final phase of the project) during the development process. Testers provided feedback on the application's usability, functionality, and design. The team used this feedback to improve the application.
 
